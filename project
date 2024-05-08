@@ -1,0 +1,262 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FreshLeaf Café</title>
+  </head>
+    <body>
+    <nav class="navbar">
+      <div class="navbar-container container">
+          <input type="checkbox" name="" id="">
+          <div class="hamburger-lines">
+              <span class="line line1"></span>
+              <span class="line line2"></span>
+              <span class="line line3"></span>
+          </div>
+          <ul class="menu-items">
+              <li><a href=""></a></li>
+              <li><a href="#home">Home</a></li>
+              <li><a href="#food">Category</a></li>
+              <li><a href="#food-menu">Menu</a></li>
+              <li><a href="#testimonials">Testimonial</a></li>
+              <li><a href="#contact">Contact</a></li>
+          </ul>
+          <h1 class="logo">FreshLeaf Café </h1>
+      </div>
+  </nav>
+    <section class="showcase-area" id="showcase">
+      <div class="showcase-container">
+        <h1 class="main-title" id="home">Eat Healthy Food</h1>
+        <p>We're fresher! We're tastier!</p>
+        <a href="#food-menu" class="btn btn-primary">Menu</a>
+      </div>
+    </section>
+
+    <section id="about">
+      <div class="about-wrapper container">
+        <div class="about-text">
+          <p class="small">About Us</p>
+          <h2>We've been making healthy food last for 10 years</h2>
+          <p>
+            At FreshLeaf Cafe, we make every last bite from scratch, using fresh ingredients from close to home and serving healthy food that takes you to a happy place. That’s our promise to you, whether you’re vegetarian, vegan, paleo, or just hungry. And just because we can do sugar-free, dairy-free and gluten-free doesn’t mean we do flavor-free… because where’s the happy in that?
+
+We’re on a simple, soul-satisfying mission to radiate positively delicious vibes. So whether you’re in the mood to relax and dine in, or just grabbing a quick healthy bite to go, join us and nourish your mind, body and soul.
+          </p>
+        </div>
+        <div class="about-img">
+          <img src="https://i.postimg.cc/mgpwzmx9/about-photo.jpg" alt="food" />
+        </div>
+      </div>
+    </section>
+    <section id="food">
+      <h2>Types of food</h2>
+      <br> <br>
+      <div class="food-container container">
+        <div class="food-type fruits">
+          <div class="img-container">
+            <img src="https://i.postimg.cc/yxThVPXk/food1.jpg" alt="error" />
+            <div class="img-content">
+              <h3>Fruits</h3>
+              <a
+                href="fruit.html"
+                class="btn btn-primary"
+                target="blank"
+                >learn more</a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="food-type vegetable">
+          <div class="img-container">
+            <img src="ctea.jpg" alt="error" />
+            <div class="img-content">
+              <h3>Teas</h3>
+              <a
+                href="tea.html"
+                class="btn btn-primary"
+                target="blank"
+                >learn more</a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="food-type grain">
+          <div class="img-container">
+            <img src="ccoffee.jpg" alt="error" />
+            <div class="img-content">
+              <h3>grains</h3>
+              <a
+                href="coffee.html"
+                class="btn btn-primary"
+                target="blank"
+                >learn more</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <br> <br>
+    <section id="food-menu">
+      <h2 class="food-menu-heading">Food Menu</h2>
+      <div class="food-menu-container container">
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://i.postimg.cc/wTLMsvSQ/food-menu1.jpg" alt=""/>
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Mediterranean Salad</h2>
+           
+            <p class="food-price">Price: &#8377; 250</p>
+          </div>
+        </div>
+
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img
+              src="https://i.postimg.cc/sgzXPzzd/food-menu2.jpg"
+              alt="error"
+            />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Fruit Salad</h2>
+            
+            <p class="food-price">Price: &#8377; 250</p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://i.postimg.cc/8zbCtYkF/food-menu3.jpg" alt="" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Avocado Brocolli Soup</h2>
+            
+            <p class="food-price">Price: &#8377; 250</p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://i.postimg.cc/Yq98p5Z7/food-menu4.jpg" alt="" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Mix Fruit Bowl</h2>
+            
+            <p class="food-price">Price: &#8377; 250</p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://i.postimg.cc/KYnDqxkP/food-menu5.jpg" alt="" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Kiwi Strawberry Pudding</h2>
+           
+            <p class="food-price">Price: &#8377; 250</p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://i.postimg.cc/Jnxc8xQt/food-menu6.jpg" alt="" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Tasty Twists</h2>
+            <p>
+              
+            </p>
+            <p class="food-price">Price: &#8377; 250</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="testimonials">
+      <h2 class="testimonial-title">What Our Customers Say</h2>
+      
+       <div class="testimonial-container container">
+        <div class="testimonial-box">
+          <div class="customer-detail">
+            <div class="customer-photo">
+              <img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />
+              <p class="customer-name">Ross Lee</p>
+            </div>
+          </div>
+          <div class="star-rating">
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+          </div>
+          <p class="testimonial-text">
+            The FreshLeaf Café is a gem for health enthusiasts. I tried their avocado toast with a side of fruit salad, and it was a delicious and nutritious breakfast. The café's atmosphere is bright and inviting, perfect for starting the day on a healthy note. Prices are reasonable, and the service is quick. I'll be back for sure.
+          </p>
+         
+        </div>
+        <div class="testimonial-box">
+          <div class="customer-detail">
+            <div class="customer-photo">
+              <img
+                src="https://i.postimg.cc/sxd2xCD2/female-photo1.jpg"
+                alt=""
+              />
+              <p class="customer-name">Amelia Watson</p>
+            </div>
+          </div>
+          <div class="star-rating">
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+          </div>
+          <p class="testimonial-text">
+            I'm not vegan, but I thoroughly enjoyed my meal at FreshLeaf Café. Their vegan burger was surprisingly flavorful and satisfying. The restaurant has a trendy vibe, and the staff is friendly. It's a great place to explore plant-based dining options, even for non-vegans like me.
+          </p>
+         
+        </div>
+        <div class="testimonial-box">
+          <div class="customer-detail">
+            <div class="customer-photo">
+              <img src="https://i.postimg.cc/fy90qvkV/male-photo3.jpg" alt="" />
+              <p class="customer-name">Ben Roy</p>
+            </div>
+          </div>
+          <div class="star-rating">
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+            <span class="fa fa-star checked"></span>
+          </div>
+          <p class="testimonial-text">
+            If you're in the mood for a fresh and filling salad, FreshLeaf Café is the place to go. I ordered the Mediterranean salad, and it was packed with colorful veggies and a tasty dressing. The portions are generous, making it a great lunch spot. The only downside is limited indoor seating, but the food makes up for it.
+          </p>
+         
+        </div>
+      </div>
+    </section>
+    <section id="contact">
+      <div class="contact-container container">
+        <div class="contact-img">
+          <img src="https://i.postimg.cc/1XvYM67V/restraunt2.jpg" alt="" />
+        </div>
+
+        <div class="form-container">
+          <h2>Contact Us</h2>
+          <input type="text" placeholder="Your Name" />
+          <input type="email" placeholder="E-Mail" />
+          <textarea
+            cols="30"
+            rows="6"
+            placeholder="Type Your Message"
+          ></textarea>
+          <a href="#" class="btn btn-primary">Submit</a>
+        </div>
+      </div>
+    </section>
+    <footer id="footer">
+      <h2>Restraunt &copy; all rights reserved</h2>
+    </footer>
+  </body>
+  
+</html>
